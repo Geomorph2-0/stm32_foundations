@@ -3,10 +3,10 @@
 ## Using the ST-LINK V2 Debugger/Programmer
 Connect the debugger/programmer to the Blue Pill as described below:  
     STM32       -->    ST-LINK V2  
-    VCC 3.3Vpin -->	pin8 3.3V  
-    SWDIO pin  	--> pin2 SWDIO  
-    SWCLK pin   -->	pin6 SWCLK  
-    GND pin     -->	pin4 GND  
+-    VCC 3.3Vpin -->	pin8 3.3V  
+-    SWDIO pin  	--> pin2 SWDIO  
+-    SWCLK pin   -->	pin6 SWCLK  
+-    GND pin     -->	pin4 GND  
 
 ## Using the Arduino IDE with your STM32 Blue Pill Microcontroller Board
 
